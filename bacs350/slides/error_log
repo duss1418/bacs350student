@@ -1,0 +1,2 @@
+[14-Nov-2019 21:28:23 UTC] PHP Warning:  require_once(db.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/slides/log.php on line 3
+[14-Nov-2019 21:28:23 UTC] PHP Fatal error:  require_once(): Failed opening required 'db.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/dyanidus/public_html/bacs350/slides/log.php on line 3

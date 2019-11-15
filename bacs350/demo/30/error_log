@@ -1,0 +1,8 @@
+[14-Nov-2019 21:18:17 UTC] PHP Warning:  require_once(secret_settings.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/demo/30/db.php on line 21
+[14-Nov-2019 21:18:17 UTC] PHP Fatal error:  require_once(): Failed opening required 'secret_settings.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/dyanidus/public_html/bacs350/demo/30/db.php on line 21
+[15-Nov-2019 01:25:34 UTC] PHP Warning:  require_once(secret_settings.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/demo/30/db.php on line 21
+[15-Nov-2019 01:25:34 UTC] PHP Fatal error:  require_once(): Failed opening required 'secret_settings.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/dyanidus/public_html/bacs350/demo/30/db.php on line 21
+[15-Nov-2019 01:25:38 UTC] PHP Warning:  require_once(secret_settings.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/demo/30/db.php on line 21
+[15-Nov-2019 01:25:38 UTC] PHP Fatal error:  require_once(): Failed opening required 'secret_settings.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/dyanidus/public_html/bacs350/demo/30/db.php on line 21
+[15-Nov-2019 01:30:13 UTC] PHP Warning:  require_once(secret_settings.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/demo/30/db.php on line 21
+[15-Nov-2019 01:30:13 UTC] PHP Fatal error:  require_once(): Failed opening required 'secret_settings.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/dyanidus/public_html/bacs350/demo/30/db.php on line 21

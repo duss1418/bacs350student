@@ -1,0 +1,52 @@
+body {padding: 2em;
+    background-color: lightblue;}
+
+#fleur {color:gold;
+    text-align:center;
+    font-size:50px;}
+
+h1 {font-size: 50px;
+    text-align:center;
+    font-family: courier;
+    font-weight: bold;
+    font-variant: small-caps;
+    color: indianred;}
+
+h2 {font-size: 30px;
+    text-align:center;
+    font-family: courier;
+    font-variant: small-caps;
+    color:darkblue;}
+
+hr {
+    border: 1px solid #F6B018;
+    width: 80%;
+    margin: 30px auto;
+}
+
+img {
+    border-radius: 20px;
+}
+
+pre {
+    border: 1px solid #F6B018;
+    box-shadow: 2px 2px 5px grey;
+    padding: 1em;
+    margin: 2em;
+}
+
+.card {width: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    background-color: white;
+    border: 5px solid indianred;
+    border-radius: 50px;
+    text-align:center;}
+
+.card-header {border-radius: 50px;
+    font-family: courier;
+    font-weight: bold;
+    color: darkblue;
+    text-align:center;
+    padding: 10px;}

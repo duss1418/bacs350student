@@ -1,0 +1,90 @@
+[02-Sep-2019 00:25:07 UTC] PHP Warning:  include(includes/a_config.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 1
+[02-Sep-2019 00:25:07 UTC] PHP Warning:  include(includes/a_config.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 1
+[02-Sep-2019 00:25:07 UTC] PHP Warning:  include(): Failed opening 'includes/a_config.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/dyanidus/public_html/bacs350/index.php on line 1
+[02-Sep-2019 00:25:07 UTC] PHP Warning:  include(includes/head-tag-contents.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 5
+[02-Sep-2019 00:25:07 UTC] PHP Warning:  include(includes/head-tag-contents.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 5
+[02-Sep-2019 00:25:07 UTC] PHP Warning:  include(): Failed opening 'includes/head-tag-contents.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/dyanidus/public_html/bacs350/index.php on line 5
+[02-Sep-2019 00:25:07 UTC] PHP Warning:  include(includes/design-top.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 9
+[02-Sep-2019 00:25:07 UTC] PHP Warning:  include(includes/design-top.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 9
+[02-Sep-2019 00:25:07 UTC] PHP Warning:  include(): Failed opening 'includes/design-top.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/dyanidus/public_html/bacs350/index.php on line 9
+[02-Sep-2019 00:25:07 UTC] PHP Warning:  include(includes/navigation.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 10
+[02-Sep-2019 00:25:07 UTC] PHP Warning:  include(includes/navigation.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 10
+[02-Sep-2019 00:25:07 UTC] PHP Warning:  include(): Failed opening 'includes/navigation.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/dyanidus/public_html/bacs350/index.php on line 10
+[02-Sep-2019 00:25:07 UTC] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 24
+[02-Sep-2019 00:25:07 UTC] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 24
+[02-Sep-2019 00:25:07 UTC] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/dyanidus/public_html/bacs350/index.php on line 24
+[02-Sep-2019 00:26:02 UTC] PHP Warning:  include(includes/a_config.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 1
+[02-Sep-2019 00:26:02 UTC] PHP Warning:  include(includes/a_config.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 1
+[02-Sep-2019 00:26:02 UTC] PHP Warning:  include(): Failed opening 'includes/a_config.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/dyanidus/public_html/bacs350/index.php on line 1
+[02-Sep-2019 00:26:02 UTC] PHP Warning:  include(includes/head-tag-contents.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 5
+[02-Sep-2019 00:26:02 UTC] PHP Warning:  include(includes/head-tag-contents.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 5
+[02-Sep-2019 00:26:02 UTC] PHP Warning:  include(): Failed opening 'includes/head-tag-contents.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/dyanidus/public_html/bacs350/index.php on line 5
+[02-Sep-2019 00:26:02 UTC] PHP Warning:  include(includes/design-top.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 9
+[02-Sep-2019 00:26:02 UTC] PHP Warning:  include(includes/design-top.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 9
+[02-Sep-2019 00:26:02 UTC] PHP Warning:  include(): Failed opening 'includes/design-top.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/dyanidus/public_html/bacs350/index.php on line 9
+[02-Sep-2019 00:26:02 UTC] PHP Warning:  include(includes/navigation.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 10
+[02-Sep-2019 00:26:02 UTC] PHP Warning:  include(includes/navigation.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 10
+[02-Sep-2019 00:26:02 UTC] PHP Warning:  include(): Failed opening 'includes/navigation.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/dyanidus/public_html/bacs350/index.php on line 10
+[02-Sep-2019 00:26:02 UTC] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 24
+[02-Sep-2019 00:26:02 UTC] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 24
+[02-Sep-2019 00:26:02 UTC] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/dyanidus/public_html/bacs350/index.php on line 24
+[02-Sep-2019 00:31:57 UTC] PHP Warning:  include(includes/a_config.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 1
+[02-Sep-2019 00:31:57 UTC] PHP Warning:  include(includes/a_config.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 1
+[02-Sep-2019 00:31:57 UTC] PHP Warning:  include(): Failed opening 'includes/a_config.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/dyanidus/public_html/bacs350/index.php on line 1
+[02-Sep-2019 00:31:57 UTC] PHP Warning:  include(includes/head-tag-contents.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 5
+[02-Sep-2019 00:31:57 UTC] PHP Warning:  include(includes/head-tag-contents.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 5
+[02-Sep-2019 00:31:57 UTC] PHP Warning:  include(): Failed opening 'includes/head-tag-contents.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/dyanidus/public_html/bacs350/index.php on line 5
+[02-Sep-2019 00:31:57 UTC] PHP Warning:  include(includes/design-top.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 9
+[02-Sep-2019 00:31:57 UTC] PHP Warning:  include(includes/design-top.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 9
+[02-Sep-2019 00:31:57 UTC] PHP Warning:  include(): Failed opening 'includes/design-top.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/dyanidus/public_html/bacs350/index.php on line 9
+[02-Sep-2019 00:31:57 UTC] PHP Warning:  include(includes/navigation.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 10
+[02-Sep-2019 00:31:57 UTC] PHP Warning:  include(includes/navigation.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 10
+[02-Sep-2019 00:31:57 UTC] PHP Warning:  include(): Failed opening 'includes/navigation.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/dyanidus/public_html/bacs350/index.php on line 10
+[02-Sep-2019 00:31:57 UTC] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 30
+[02-Sep-2019 00:31:57 UTC] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 30
+[02-Sep-2019 00:31:57 UTC] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/dyanidus/public_html/bacs350/index.php on line 30
+[02-Sep-2019 00:33:02 UTC] PHP Warning:  include(includes/a_config.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 1
+[02-Sep-2019 00:33:02 UTC] PHP Warning:  include(includes/a_config.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 1
+[02-Sep-2019 00:33:02 UTC] PHP Warning:  include(): Failed opening 'includes/a_config.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/dyanidus/public_html/bacs350/index.php on line 1
+[02-Sep-2019 00:33:02 UTC] PHP Warning:  include(includes/head-tag-contents.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 5
+[02-Sep-2019 00:33:02 UTC] PHP Warning:  include(includes/head-tag-contents.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 5
+[02-Sep-2019 00:33:02 UTC] PHP Warning:  include(): Failed opening 'includes/head-tag-contents.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/dyanidus/public_html/bacs350/index.php on line 5
+[02-Sep-2019 00:33:02 UTC] PHP Warning:  include(includes/design-top.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 9
+[02-Sep-2019 00:33:02 UTC] PHP Warning:  include(includes/design-top.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 9
+[02-Sep-2019 00:33:02 UTC] PHP Warning:  include(): Failed opening 'includes/design-top.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/dyanidus/public_html/bacs350/index.php on line 9
+[02-Sep-2019 00:33:02 UTC] PHP Warning:  include(includes/navigation.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 10
+[02-Sep-2019 00:33:02 UTC] PHP Warning:  include(includes/navigation.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 10
+[02-Sep-2019 00:33:02 UTC] PHP Warning:  include(): Failed opening 'includes/navigation.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/dyanidus/public_html/bacs350/index.php on line 10
+[02-Sep-2019 00:33:02 UTC] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 30
+[02-Sep-2019 00:33:02 UTC] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 30
+[02-Sep-2019 00:33:02 UTC] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/dyanidus/public_html/bacs350/index.php on line 30
+[02-Sep-2019 00:35:30 UTC] PHP Warning:  include(includes/a_config.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 1
+[02-Sep-2019 00:35:30 UTC] PHP Warning:  include(includes/a_config.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 1
+[02-Sep-2019 00:35:30 UTC] PHP Warning:  include(): Failed opening 'includes/a_config.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/dyanidus/public_html/bacs350/index.php on line 1
+[02-Sep-2019 00:35:30 UTC] PHP Warning:  include(includes/head-tag-contents.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 5
+[02-Sep-2019 00:35:30 UTC] PHP Warning:  include(includes/head-tag-contents.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 5
+[02-Sep-2019 00:35:30 UTC] PHP Warning:  include(): Failed opening 'includes/head-tag-contents.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/dyanidus/public_html/bacs350/index.php on line 5
+[02-Sep-2019 00:35:30 UTC] PHP Warning:  include(includes/design-top.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 9
+[02-Sep-2019 00:35:30 UTC] PHP Warning:  include(includes/design-top.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 9
+[02-Sep-2019 00:35:30 UTC] PHP Warning:  include(): Failed opening 'includes/design-top.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/dyanidus/public_html/bacs350/index.php on line 9
+[02-Sep-2019 00:35:30 UTC] PHP Warning:  include(includes/navigation.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 10
+[02-Sep-2019 00:35:30 UTC] PHP Warning:  include(includes/navigation.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 10
+[02-Sep-2019 00:35:30 UTC] PHP Warning:  include(): Failed opening 'includes/navigation.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/dyanidus/public_html/bacs350/index.php on line 10
+[02-Sep-2019 00:35:30 UTC] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 37
+[02-Sep-2019 00:35:30 UTC] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 37
+[02-Sep-2019 00:35:30 UTC] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/dyanidus/public_html/bacs350/index.php on line 37
+[02-Sep-2019 00:37:46 UTC] PHP Warning:  include(includes/a_config.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 1
+[02-Sep-2019 00:37:46 UTC] PHP Warning:  include(includes/a_config.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 1
+[02-Sep-2019 00:37:46 UTC] PHP Warning:  include(): Failed opening 'includes/a_config.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/dyanidus/public_html/bacs350/index.php on line 1
+[02-Sep-2019 00:37:46 UTC] PHP Warning:  include(includes/head-tag-contents.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 5
+[02-Sep-2019 00:37:46 UTC] PHP Warning:  include(includes/head-tag-contents.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 5
+[02-Sep-2019 00:37:46 UTC] PHP Warning:  include(): Failed opening 'includes/head-tag-contents.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/dyanidus/public_html/bacs350/index.php on line 5
+[02-Sep-2019 00:37:46 UTC] PHP Warning:  include(includes/design-top.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 9
+[02-Sep-2019 00:37:46 UTC] PHP Warning:  include(includes/design-top.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 9
+[02-Sep-2019 00:37:46 UTC] PHP Warning:  include(): Failed opening 'includes/design-top.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/dyanidus/public_html/bacs350/index.php on line 9
+[02-Sep-2019 00:37:46 UTC] PHP Warning:  include(includes/navigation.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 10
+[02-Sep-2019 00:37:46 UTC] PHP Warning:  include(includes/navigation.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 10
+[02-Sep-2019 00:37:46 UTC] PHP Warning:  include(): Failed opening 'includes/navigation.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/dyanidus/public_html/bacs350/index.php on line 10
+[02-Sep-2019 00:37:46 UTC] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 37
+[02-Sep-2019 00:37:46 UTC] PHP Warning:  include(includes/footer.php): failed to open stream: No such file or directory in /home3/dyanidus/public_html/bacs350/index.php on line 37
+[02-Sep-2019 00:37:46 UTC] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/dyanidus/public_html/bacs350/index.php on line 37
